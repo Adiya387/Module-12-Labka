@@ -1,5 +1,5 @@
 package module12Laba;
-
+//Проверка наличия товаров на складе
 import java.util.*;
 
 public class StockChecker {
